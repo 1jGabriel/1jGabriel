@@ -8,5 +8,4 @@ I'm João Gabriel, I'm an android developer 👨‍💻 who is passionate about 
 - 🔭 I’m currently working on MovilePay
 - 🌱 I’m always learning about Android
 - 💬 Ask me about: tech, memes, anime, mangas, hqs, games
-- 😄 Pronouns: he/him
 - ⚡ Languages: Java, Kotlin, JS
