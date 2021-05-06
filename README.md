@@ -10,4 +10,4 @@ I'm João Gabriel, I'm an android developer 👨‍💻 who is passionate about 
 - 💬 Ask me about: tech, memes, anime, mangas, hqs, games
 - ⚡ Languages: Java, Kotlin, JS
 
-![](https://github-readme-stats.vercel.app/api?username=1jgabriel&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=1jgabriel&show_icons=true&theme=dark&count_private=true&count_private=true)
