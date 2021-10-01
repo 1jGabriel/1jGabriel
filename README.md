@@ -5,8 +5,8 @@
 
 I'm João Gabriel, I'm an android developer 👨‍💻 who is passionate about mobile technologies and easy ways to development. 
 
-- 🔭 I’m currently working on MovilePay
-- 🌱 I’m always learning about Android
+- 🔭 I’m currently working on Nubank
+- 🌱 I’m always learning about Mobile
 - 💬 Ask me about: tech, memes, anime, mangas, hqs, games
 - ⚡ Languages: Java, Kotlin, JS
 
